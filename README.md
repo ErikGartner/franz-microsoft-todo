@@ -5,7 +5,7 @@ Just add the files into your Franz plugin folder.
 *Currently Microsoft seems to be experience problems on their end. When that is resolved and this plugin can be properly tested I will make a pull request to include in this in the Franz plugin repository.*
 
 ## Installation
-Just copy all the files into your Franz plugin folder in a folder names `microsoft-todo`.
+Just copy all the files into your Franz plugin folder in a folder named `microsoft-todo`.
 
 ## License
 MIT
